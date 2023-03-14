@@ -27,6 +27,10 @@ public class GitTestBranchApplication {
 	{
 		System.out.println("Hello");
 	}
+	public void method1()
+	{
+		System.out.println("Welcome");
+	}
 	
 	
 	public static void main(String[] args) {
