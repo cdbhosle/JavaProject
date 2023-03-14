@@ -31,6 +31,11 @@ public class GitTestBranchApplication {
 	{
 		System.out.println("Welcome");
 	}
+	public void method2()
+	{
+		System.out.println("new method first excute");
+	}
+	
 	
 	
 	public static void main(String[] args) {
